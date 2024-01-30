@@ -59,3 +59,13 @@ jobs:
           tag_name: v${{ steps.version.outputs.version }}
           release_name: Release ${{ steps.version.outputs.version }}
           body_path: ./CHANGELOG.md
+      
+      - name: Refresh subscription CDN cache
+        uses: sozo-design/curl@v1.0.2
+        with:
+          args: https://purge.jsdelivr.net/gh/Adpro-Team/GKD_subscription@main/dist/Adpro_gkd.json5
+      
+      - name: Refresh version CDN cache
+        uses: sozo-design/curl@v1.0.2
+        with:
+          args: https://purge.jsdelivr.net/gh/Adpro-Team/GKD_subscription@main/dist/Adpro_gkd.version.json
