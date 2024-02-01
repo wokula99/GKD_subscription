@@ -9,7 +9,7 @@ export default defineAppConfig({
       name: '通知提示',
       desc: '概率误触，谨慎开启',
       activityIds: 'com.cib.fintech.activity.MainActivity',
-      rules: 
+      rules:
         '[id="android:id/content"] >2 RelativeLayout[childCount=2] > RelativeLayout + ImageView[clickable=true]',
       snapshotUrls: 'https://i.gkd.li/import/14122970',
     },
