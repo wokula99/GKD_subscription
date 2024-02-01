@@ -76,7 +76,8 @@ export default defineAppConfig({
       quickFind: true,
       activityIds: 'com.ct.client.common.ConfirmDialogActivity',
       rules: '[id="com.ct.client:id/ivSign"]',
-      exampleUrls: 'https://m.gkd.li/57941037/fe4862c7-44ce-4d2f-9f3f-1621a373b075',
+      exampleUrls:
+        'https://m.gkd.li/57941037/fe4862c7-44ce-4d2f-9f3f-1621a373b075',
       snapshotUrls: 'https://i.gkd.li/import/14121382',
     },
   ],
