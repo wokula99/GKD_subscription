@@ -76,10 +76,10 @@ export default defineAppConfig({
       resetMatch: 'app',
       actionMaximum: 1,
       quickFind: true,
-      activityIds: 'com.gotokeep.keep.refactor.business.main.activity.MainActivity',
+      activityIds:
+        'com.gotokeep.keep.refactor.business.main.activity.MainActivity',
       rules: '[text*="发现新版本"] +3 [text="暂不升级"]',
       snapshotUrls: 'https://i.gkd.li/import/14124815',
-
     },
   ],
 });
