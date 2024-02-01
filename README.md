@@ -5,12 +5,12 @@ Adpro-Team维护的GKD订阅 仅启用 `开屏广告` 一类规则, 其它所有
 在 GKD 内添加以下链接即可使用此规则
 
 ```txt
-https://fastly.jsdelivr.net/gh/Adpro-Team/GKD_subscription@latest/dist/Adpro_gkd.json5
+https://raw.gitmirror.com/Adpro-Team/GKD_subscription/main/dist/Adpro_gkd.json5
 ```
 
-当前版本: v8
+当前版本: v9
 
-当前订阅文件已适配 624 个 APP, 共有 1412 规则组
+当前订阅文件已适配 626 个 APP, 共有 1421 规则组
 
 查看 [适配 APP 列表](./AppList.md)
 
@@ -18,7 +18,7 @@ https://fastly.jsdelivr.net/gh/Adpro-Team/GKD_subscription@latest/dist/Adpro_gkd
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=Adpro-Team/GKD_subscription&_v=8)
+![img](https://contrib.rocks/image?repo=Adpro-Team/GKD_subscription&_v=9)
 
 ## 感谢以下项目
 
