@@ -216,7 +216,8 @@ export default defineAppConfig({
           key: 0,
           name: '搜索小组件',
           quickFind: true,
-          activityIds: 'com.ss.android.ugc.aweme.search.activity.SearchResultActivity',
+          activityIds:
+            'com.ss.android.ugc.aweme.search.activity.SearchResultActivity',
           matches: '[text="开启搜索组件到桌面"] +2 [text="暂不开启"]',
           snapshotUrls: 'https://i.gkd.li/import/14123300',
         },
