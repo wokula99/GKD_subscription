@@ -34,7 +34,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          matches: 
+          matches:
             '@ImageView < * <2 FrameLayout[childCount=5] <<n [id="android:id/content"]',
           snapshotUrls: [
             'https://i.gkd.li/import/13264383',
