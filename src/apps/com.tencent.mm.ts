@@ -417,8 +417,11 @@ export default defineAppConfig({
         {
           key: 1,
           name: '【广告】1',
-          matches: 'Image[text="feedback_icon"] - [text="广告"]',
-          snapshotUrls: 'https://i.gkd.li/import/13378208',
+          matches: 'View > * - [text="广告"]',
+          snapshotUrls: [
+            'https://i.gkd.li/import/13378208',
+            'https://i.gkd.li/import/14123141',
+          ],
         },
         {
           preKeys: [0, 1],
