@@ -40,7 +40,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          matches: 
+          matches:
             '[id="gov.pianzong.androidnga:id/rv_post_list"] > FrameLayout *[childCount<=4] > [text!="" && text!=null] +(1,2) *[childCount<=3 && childCount!=2] > @[name*="Image" || name*="TextView"][text!=""][index=0 || index>1][visibleToUser=true]',
           snapshotUrls: [
             'https://i.gkd.li/import/12655805',
