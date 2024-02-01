@@ -16,6 +16,14 @@ https://raw.gitmirror.com/Adpro-Team/GKD_subscription/main/dist/Adpro_gkd.json5
 
 如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+---
+
+## 通知
+
+因各方面因素影响，2024春节及之后更新速度将会放缓，速度大概是一周一更。下方给出的项目更新速度会更快，规则也会更多。
+
+[AIsouler/subscription](https://github.com/AIsouler/subscription)
+
 ## 感谢以下开发者的贡献
 
 ![img](https://contrib.rocks/image?repo=Adpro-Team/GKD_subscription&_v=--VERSION--)
