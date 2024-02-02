@@ -1,5 +1,5 @@
 {
-  "name": "@adpro-team/subscription",
+  "name": "@adpro-team/gkd_subscription",
   "type": "module",
   "version": "1.10.0",
   "main": "./dist/Adpro_gkd.json5",
