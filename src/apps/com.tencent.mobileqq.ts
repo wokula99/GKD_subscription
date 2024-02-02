@@ -80,17 +80,25 @@ export default defineAppConfig({
           ],
         },
         {
-          preKeys: 0,
+          key: 4,
+          activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
+          quickFind: true,
+          matches: 'ImageView[clickable=true] < * -2 * >2 [text="广告"]',
+          snapshotUrls: 'https://i.gkd.li/import/14138557',
+        },
+        {
+          preKeys: [0, 4],
           key: 1,
           activityIds: [
             'com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity',
             'com.tencent.mobileqq.activity.SplashActivity',
           ],
           quickFind: true,
-          matches: '@[clickable=true] > ImageView + [text="关闭此条广告"]',
+          matches: '@* > ImageView + [text="关闭此条广告"]',
           snapshotUrls: [
             'https://i.gkd.li/import/12840889',
             'https://i.gkd.li/import/13831867', //activityId: 'com.tencent.mobileqq.activity.SplashActivity'
+            'https://i.gkd.li/import/14138556',
           ],
         },
         {
@@ -379,20 +387,15 @@ export default defineAppConfig({
         {
           key: 0,
           activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
-          quickFind: true,
-          matches: '[id="com.tencent.mobileqq:id/iyx"]',
+          matches:
+            '[text*="版本更新" || text*="点击下载"] + ImageView[clickable=true]',
           snapshotUrls: [
             'https://i.gkd.li/import/13188722',
-            'https://i.gkd.li/import/13255493', //desc值为null快照
-            'https://i.gkd.li/import/13843140', //关系选择器为-2快照
+            'https://i.gkd.li/import/13255493',
+            'https://i.gkd.li/import/13843140',
+            'https://i.gkd.li/import/13931212',
+            'https://i.gkd.li/import/14138334',
           ],
-        },
-        {
-          key: 1,
-          activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
-          matches:
-            '[text="发现QQ版本更新"] + [text="点击下载"] + ImageView[clickable=true]',
-          snapshotUrls: 'https://i.gkd.li/import/13931212',
         },
       ],
     },
@@ -413,9 +416,12 @@ export default defineAppConfig({
     {
       enable: false,
       key: 20,
-      name: '钱包-卡片广告',
+      name: '分段广告-钱包页卡片广告',
       quickFind: true,
-      activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
+      activityIds: [
+        'com.tencent.mobileqq.activity.SplashActivity',
+        'cooperation.qwallet.plugin.QWalletToolFragmentActivity',
+      ],
       rules: [
         {
           key: 0,
@@ -442,6 +448,41 @@ export default defineAppConfig({
           matches:
             'ViewGroup[childCount=2] > ViewGroup[childCount=3][index=1] > ViewGroup[clickable=true][visibleToUser=true][index=1][childCount=0]',
           snapshotUrls: 'https://i.gkd.li/import/13797876',
+        },
+      ],
+    },
+    {
+      key: 22,
+      name: '分段广告-天气页卡片广告',
+      desc: '点击关闭-点击关闭此条广告',
+      quickFind: true,
+      activityIds: 'com.tencent.mobileqq.activity.QPublicFragmentActivity',
+      rules: [
+        {
+          key: 0,
+
+          matches: '[id="com.tencent.mobileqq:id/nca"]',
+          snapshotUrls: 'https://i.gkd.li/import/14019384',
+        },
+        {
+          preKeys: 0,
+          key: 1,
+          matches: '@LinearLayout[childCount=3] > [text="关闭此条广告"]',
+          snapshotUrls: 'https://i.gkd.li/import/14019401',
+        },
+      ],
+    },
+    {
+      key: 23,
+      name: '全屏广告-个人主页浮层广告',
+      rules: [
+        {
+          key: 0,
+          name: '个性装扮浮层广告',
+          activityIds:
+            'com.tencent.mobileqq.profilecard.activity.FriendProfileCardActivity',
+          matches: '[desc="关闭浮层"][clickable=true]',
+          snapshotUrls: 'https://i.gkd.li/import/14074727',
         },
       ],
     },

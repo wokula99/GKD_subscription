@@ -94,8 +94,48 @@ export default defineAppConfig({
       key: 9,
       name: '局部广告-广告卡片',
       quickFind: true,
+      activityIds: 'com.baidu.youavideo.home.view.HomeActivity',
       rules: '[vid="iv_close"][visibleToUser=true]',
-      snapshotUrls: 'https://i.gkd.li/import/13874124',
+      snapshotUrls: [
+        'https://i.gkd.li/import/13874124',
+        'https://i.gkd.li/import/14038825', //误触快照
+      ],
+    },
+    {
+      key: 10,
+      name: '权限提示-忽略电池优化',
+      desc: '点击【取消】',
+      quickFind: true,
+      rules:
+        '[text*="电池优化权限"] < * +n [vid="bottom_two_button_layout"] >n [vid="cancel"]',
+      snapshotUrls: 'https://i.gkd.li/import/14065510',
+    },
+    {
+      key: 11,
+      name: '全屏广告',
+      rules: [
+        {
+          key: 0,
+          quickFind: true,
+          activityIds:
+            'com.baidu.youavideo.preview.ui.album.AlbumPreviewActivity',
+          matches: '[text="广告"] -n [vid="iv_close"]',
+          snapshotUrls: [
+            'https://i.gkd.li/import/14107272',
+            'https://i.gkd.li/import/14038825', //[vid="iv_close"]在该页面误触
+          ],
+        },
+      ],
+    },
+    {
+      key: 12,
+      name: '功能类-展示精选回忆故事',
+      desc: '点击x',
+      quickFind: true,
+      activityIds:
+        'com.baidu.youavideo.story.ui.view.activity.CloudStorySetActivity',
+      rules: '[text="在桌面展示精选回忆故事"] - [vid="iv_close"]',
+      snapshotUrls: 'https://i.gkd.li/import/14138907',
     },
   ],
 });
