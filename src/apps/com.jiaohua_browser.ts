@@ -11,15 +11,21 @@ export default defineAppConfig({
       matchTime: 10000,
       resetMatch: 'app',
       actionMaximum: 1,
-      rules: '@ViewGroup > [text=""]',
-      snapshotUrls: 'https://i.gkd.li/import/14141773',
+      rules: '@ViewGroup > [text=""][visibleToUser=true]',
+      snapshotUrls: [
+        'https://i.gkd.li/import/14141773',
+        'https://i.gkd.li/import/14142408', //不加visibleToUser误触快照
+      ],
     },
     {
       key: 1,
       name: '局部广告-首页底部广告',
       activityIds: 'com.jiaohua_browser.MainActivity',
-      rules: '@ViewGroup > [text=""]',
-      snapshotUrls: 'https://i.gkd.li/import/14141810',
+      rules: '@ViewGroup > [text=""][visibleToUser=true]',
+      snapshotUrls: [
+        'https://i.gkd.li/import/14141810',
+        'https://i.gkd.li/import/14142408', //不加visibleToUser误触快照
+      ],
     },
     {
       key: 2,
