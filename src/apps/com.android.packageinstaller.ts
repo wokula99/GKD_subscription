@@ -12,21 +12,21 @@ export default defineAppConfig({
         {
           key: 0,
           activityIds: 'com.android.packageinstaller.PackageInstallerActivity',
-          matches: '@LinearLayout > [text="继续安装"]',
+          matches: '[text="继续安装"]',
           snapshotUrls: 'https://i.gkd.li/import/13206444',
         },
         {
           key: 1,
-          activityIds: 'com.android.packageinstaller.NewInstallInstalling',
-          matches: [
-            '@[clickable=true][childCount=1] > [text="完成"]',
-            '[id="com.android.packageinstaller:id/done_button"][clickable=true]',
+          activityIds: [
+            'com.android.packageinstaller.NewInstallInstalling',
+            'com.android.packageinstaller.InstallSuccess',
           ],
+          matches: '[text="完成"]',
           snapshotUrls: [
-            'https://i.gkd.li/import/13206476', //规则1
-            //规则2
+            'https://i.gkd.li/import/14138123', //activityId: com.android.packageinstaller.InstallSuccess
+            'https://i.gkd.li/import/13206476',
             'https://i.gkd.li/import/13766420',
-            'https://i.gkd.li/import/13962438', //text=null
+            'https://i.gkd.li/import/13962438',
           ],
         },
       ],
