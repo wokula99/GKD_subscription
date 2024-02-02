@@ -132,7 +132,8 @@ export default defineAppConfig({
       name: '功能类-展示精选回忆故事',
       desc: '点击x',
       quickFind: true,
-      activityIds: 'com.baidu.youavideo.story.ui.view.activity.CloudStorySetActivity',
+      activityIds:
+        'com.baidu.youavideo.story.ui.view.activity.CloudStorySetActivity',
       rules: '[text="在桌面展示精选回忆故事"] - [vid="iv_close"]',
       snapshotUrls: 'https://i.gkd.li/import/14138907',
     },
