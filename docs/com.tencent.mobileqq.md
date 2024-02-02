@@ -28,12 +28,14 @@
 
 - [快照-0](https://i.gkd.li/import/12847842)
 - [快照-1](https://i.gkd.li/import/13787345)
-- [快照-2](https://i.gkd.li/import/12840889)
-- [快照-3](https://i.gkd.li/import/13831867)
-- [快照-4](https://i.gkd.li/import/13761147)
-- [快照-5](https://i.gkd.li/import/13849730)
-- [快照-6](https://i.gkd.li/import/12749584)
-- [快照-7](https://i.gkd.li/import/13627967)
+- [快照-2](https://i.gkd.li/import/14138557)
+- [快照-3](https://i.gkd.li/import/12840889)
+- [快照-4](https://i.gkd.li/import/13831867)
+- [快照-5](https://i.gkd.li/import/14138556)
+- [快照-6](https://i.gkd.li/import/13761147)
+- [快照-7](https://i.gkd.li/import/13849730)
+- [快照-8](https://i.gkd.li/import/12749584)
+- [快照-9](https://i.gkd.li/import/13627967)
 
 ## 频道页面广告
 
@@ -145,6 +147,7 @@
 - [快照-1](https://i.gkd.li/import/13255493)
 - [快照-2](https://i.gkd.li/import/13843140)
 - [快照-3](https://i.gkd.li/import/13931212)
+- [快照-4](https://i.gkd.li/import/14138334)
 
 ## 内测邀请弹窗
 

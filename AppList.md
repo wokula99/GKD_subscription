@@ -12,6 +12,7 @@
 | CTM Buddy              | [com.ctm](/docs/com.ctm.md)                                                                                                                                       | 2      |
 | Cellular-Z             | [make.more.r2d2.cellular_z](/docs/make.more.r2d2.cellular_z.md)                                                                                                   | 2      |
 | Cimoc                  | [com.cimoc.haleydu](/docs/com.cimoc.haleydu.md)                                                                                                                   | 1      |
+| ClrvAI                 | [com.panaceasoft.pswallpaper](/docs/com.panaceasoft.pswallpaper.md)                                                                                               | 1      |
 | ECOVACS HOME           | [com.eco.global.app](/docs/com.eco.global.app.md)                                                                                                                 | 1      |
 | EMobile7               | [com.weaver.emobile7](/docs/com.weaver.emobile7.md)                                                                                                               | 1      |
 | Edge                   | [com.microsoft.emmx](/docs/com.microsoft.emmx.md)                                                                                                                 | 1      |
@@ -19,6 +20,7 @@
 | Gspace                 | [com.gspace.android](/docs/com.gspace.android.md)                                                                                                                 | 2      |
 | HMS Core               | [com.huawei.hwid](/docs/com.huawei.hwid.md)                                                                                                                       | 1      |
 | Instagram              | [com.instagram.android](/docs/com.instagram.android.md)                                                                                                           | 2      |
+| JMComic2               | [com.jiaohua_browser](/docs/com.jiaohua_browser.md)                                                                                                               | 4      |
 | JavDB                  | [xxx.pornhub.fuck](/docs/xxx.pornhub.fuck.md)                                                                                                                     | 1      |
 | Keep                   | [com.gotokeep.keep](/docs/com.gotokeep.keep.md)                                                                                                                   | 6      |
 | LIBVIO                 | [lab.vie.two](/docs/lab.vie.two.md)                                                                                                                               | 1      |
@@ -84,6 +86,7 @@
 | MX 播放器              | [com.mxtech.videoplayer.ad](/docs/com.mxtech.videoplayer.ad.md)                                                                                                   | 1      |
 | NGA玩家社区            | [gov.pianzong.androidnga](/docs/gov.pianzong.androidnga.md)                                                                                                       | 5      |
 | NP管理器               | [npgl.jsitcx.xlpqi](/docs/npgl.jsitcx.xlpqi.md)                                                                                                                   | 2      |
+| NP管理器               | [com.wn.app.np](/docs/com.wn.app.np.md)                                                                                                                           | 1      |
 | OPPO软件商店           | [com.heytap.market](/docs/com.heytap.market.md)                                                                                                                   | 2      |
 | OPPO商城               | [com.oppo.store](/docs/com.oppo.store.md)                                                                                                                         | 2      |
 | OPPO手机管家           | [com.coloros.phonemanager](/docs/com.coloros.phonemanager.md)                                                                                                     | 1      |
@@ -299,6 +302,7 @@
 | 联想                   | [com.lenovo.club.app](/docs/com.lenovo.club.app.md)                                                                                                               | 1      |
 | 联想浏览器HD           | [com.lenovo.browser.hd](/docs/com.lenovo.browser.hd.md)                                                                                                           | 2      |
 | 联想应用中心           | [com.lenovo.leos.appstore](/docs/com.lenovo.leos.appstore.md)                                                                                                     | 2      |
+| 录音机                 | [com.android.soundrecorder](/docs/com.android.soundrecorder.md)                                                                                                   | 1      |
 | 绿洲                   | [com.sina.oasis](/docs/com.sina.oasis.md)                                                                                                                         | 1      |
 | 买单吧                 | [com.bankcomm.maidanba](/docs/com.bankcomm.maidanba.md)                                                                                                           | 1      |
 | 麦当劳                 | [com.mcdonalds.gma.cn](/docs/com.mcdonalds.gma.cn.md)                                                                                                             | 2      |
@@ -552,7 +556,7 @@
 | 一个                   | [com.hihanhan.one.rt45](/docs/com.hihanhan.one.rt45.md)                                                                                                           | 1      |
 | 易捷加油               | [cn.com.hkgt.gasapp](/docs/cn.com.hkgt.gasapp.md)                                                                                                                 | 1      |
 | 医考帮                 | [com.yikaobang.yixue](/docs/com.yikaobang.yixue.md)                                                                                                               | 1      |
-| 一刻相册               | [com.baidu.youavideo](/docs/com.baidu.youavideo.md)                                                                                                               | 10     |
+| 一刻相册               | [com.baidu.youavideo](/docs/com.baidu.youavideo.md)                                                                                                               | 11     |
 | 易快报                 | [com.hose.ekuaibao](/docs/com.hose.ekuaibao.md)                                                                                                                   | 1      |
 | 影视仓                 | [com.movie.store](/docs/com.movie.store.md)                                                                                                                       | 1      |
 | 影视大全               | [com.le123.ysdq](/docs/com.le123.ysdq.md)                                                                                                                         | 1      |

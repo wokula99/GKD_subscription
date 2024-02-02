@@ -1,6 +1,6 @@
 # 一刻相册
 
-存在 10 规则组 - [com.baidu.youavideo](/src/apps/com.baidu.youavideo.ts)
+存在 11 规则组 - [com.baidu.youavideo](/src/apps/com.baidu.youavideo.ts)
 
 ## 软件升级提醒
 
@@ -63,3 +63,9 @@
 
 - [快照-0](https://i.gkd.li/import/14107272)
 - [快照-1](https://i.gkd.li/import/14038825)
+
+## 功能类-展示精选回忆故事
+
+默认禁用 - 点击x
+
+- [快照-0](https://i.gkd.li/import/14138907)
