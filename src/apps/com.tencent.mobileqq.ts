@@ -87,7 +87,7 @@ export default defineAppConfig({
           snapshotUrls: 'https://i.gkd.li/import/14138557',
         },
         {
-          preKeys: [0,4],
+          preKeys: [0, 4],
           key: 1,
           activityIds: [
             'com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity',
