@@ -1,6 +1,6 @@
 # 淘宝
 
-存在 13 规则组 - [com.taobao.taobao](/src/apps/com.taobao.taobao.ts)
+存在 14 规则组 - [com.taobao.taobao](/src/apps/com.taobao.taobao.ts)
 
 ## 开屏广告
 
@@ -90,3 +90,9 @@
 - [快照-0](https://i.gkd.li/import/13628020)
 - [快照-1](https://i.gkd.li/import/13691864)
 - [快照-2](https://i.gkd.li/import/13898735)
+
+## 功能类-搜索结果-自动点击反馈理由
+
+默认禁用
+
+- [快照-0](https://i.gkd.li/import/14142196)

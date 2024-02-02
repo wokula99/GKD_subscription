@@ -155,6 +155,7 @@
 | 大茶肆                 | [cisdom.com.bigteaapp](/docs/cisdom.com.bigteaapp.md)                                                                                                             | 1      |
 | 大麦                   | [cn.damai](/docs/cn.damai.md)                                                                                                                                     | 2      |
 | 倒计日                 | [com.zhizhou.days](/docs/com.zhizhou.days.md)                                                                                                                     | 2      |
+| 到梦空间               | [com.jingcai.apps.qualitydev](/docs/com.jingcai.apps.qualitydev.md)                                                                                               | 1      |
 | 大师兄影视             | [com.zhiyin.qingdan.dashixiong](/docs/com.zhiyin.qingdan.dashixiong.md)                                                                                           | 3      |
 | 大淘客联盟             | [com.dataoke.union](/docs/com.dataoke.union.md)                                                                                                                   | 1      |
 | 大学搜题酱             | [com.zmzx.college.search](/docs/com.zmzx.college.search.md)                                                                                                       | 9      |
@@ -422,7 +423,7 @@
 | 随手记                 | [com.mymoney](/docs/com.mymoney.md)                                                                                                                               | 1      |
 | 钛马星                 | [com.tima.carnet.m.main](/docs/com.tima.carnet.m.main.md)                                                                                                         | 2      |
 | 糖心Vlog               | [com.flutter3.ctangxin.vf0egg](/docs/com.flutter3.ctangxin.vf0egg.md)                                                                                             | 4      |
-| 淘宝                   | [com.taobao.taobao](/docs/com.taobao.taobao.md)                                                                                                                   | 13     |
+| 淘宝                   | [com.taobao.taobao](/docs/com.taobao.taobao.md)                                                                                                                   | 14     |
 | 淘粉吧                 | [com.leixun.taofen8](/docs/com.leixun.taofen8.md)                                                                                                                 | 1      |
 | 淘特                   | [com.taobao.litetao](/docs/com.taobao.litetao.md)                                                                                                                 | 2      |
 | 特狗APP                | [com.yunxiang.wuyu](/docs/com.yunxiang.wuyu.md)                                                                                                                   | 2      |

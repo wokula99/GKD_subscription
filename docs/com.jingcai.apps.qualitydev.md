@@ -2,6 +2,8 @@
 
 存在 1 规则组 - [com.jingcai.apps.qualitydev](/src/apps/com.jingcai.apps.qualitydev.ts)
 
-## 开屏广告
+## 功能类-学习活动
 
-- [快照-0](https://i.gkd.li/import/12838092)
+默认禁用
+
+- [快照-0](https://i.gkd.li/import/14054117)
