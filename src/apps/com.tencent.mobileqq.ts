@@ -379,7 +379,8 @@ export default defineAppConfig({
         {
           key: 0,
           activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
-          matches: '[text*="版本更新" || text*="点击下载"] + ImageView[clickable=true]',
+          matches:
+            '[text*="版本更新" || text*="点击下载"] + ImageView[clickable=true]',
           snapshotUrls: [
             'https://i.gkd.li/import/13188722',
             'https://i.gkd.li/import/13255493',
