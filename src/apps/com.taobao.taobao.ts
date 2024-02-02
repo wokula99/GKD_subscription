@@ -219,5 +219,12 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 17,
+      name: '功能类-搜索结果-自动点击反馈理由',
+      activityIds: 'com.taobao.search.sf.MainSearchResultActivity',
+      rules: '[desc="不喜欢这个商品"]',
+      snapshotUrls: 'https://i.gkd.li/import/14142196',
+    },
   ],
 });
