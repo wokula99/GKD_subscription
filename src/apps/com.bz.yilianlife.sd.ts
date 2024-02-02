@@ -7,15 +7,21 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '全屏广告-弹窗广告',
       rules: [
         {
           key: 0,
-          name: '快手广告',
+          name: '快手SDK-1',
           activityIds: 'com.deep.search.MainActivity',
           matches:
             '@ImageView[clickable=true] <3 ViewGroup -2 ViewGroup >n [text="广告"]',
           snapshotUrls: 'https://i.gkd.li/import/13766176',
+        },
+        {
+          key: 1,
+          name: '快手SDK-2',
+          matches: '@ImageView <<n ViewGroup +2 ViewGroup >n [text="广告"]',
+          snapshotUrls: 'https://i.gkd.li/import/14142578',
         },
       ],
     },
