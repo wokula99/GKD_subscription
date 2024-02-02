@@ -80,14 +80,14 @@ export default defineAppConfig({
           ],
         },
         {
-          key: 1,
+          key: 4,
           activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
           quickFind: true,
           matches: 'ImageView[clickable=true] < * -2 * >2 [text="广告"]',
           snapshotUrls: 'https://i.gkd.li/import/14138557',
         },
         {
-          preKeys: [0,1],
+          preKeys: [0,4],
           key: 1,
           activityIds: [
             'com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity',
