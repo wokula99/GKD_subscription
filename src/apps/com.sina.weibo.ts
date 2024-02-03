@@ -285,5 +285,15 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 20,
+      name: '功能类-点赞任务奖励',
+      desc: '点击x',
+      actionMaximum: 1,
+      resetMatch: 'app',
+      activityIds: 'com.sina.weibo.feed.MPDialogActivity',
+      rules: '[vid="container"] >n [text="close"]',
+      snapshotUrls: 'https://i.gkd.li/import/13837867',
+    },
   ],
 });
