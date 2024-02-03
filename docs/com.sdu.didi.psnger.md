@@ -8,8 +8,9 @@
 
 - [快照-0](https://i.gkd.li/import/13760846)
 
-## 全屏广告-打车页面-优惠券
+## 全屏广告-优惠券
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/14047551)
+- [快照-1](https://i.gkd.li/import/13947142)

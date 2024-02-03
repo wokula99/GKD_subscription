@@ -39,3 +39,4 @@
 默认禁用 - 点击右上角X
 
 - [快照-0](https://i.gkd.li/import/13842492)
+- [快照-1](https://i.gkd.li/import/13936362)

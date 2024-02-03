@@ -1,6 +1,6 @@
 # 微博
 
-存在 16 规则组 - [com.sina.weibo](/src/apps/com.sina.weibo.ts)
+存在 17 规则组 - [com.sina.weibo](/src/apps/com.sina.weibo.ts)
 
 ## 兴趣领域推荐
 
@@ -111,3 +111,9 @@
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13929119)
+
+## 功能类-点赞任务奖励
+
+默认禁用 - 点击x
+
+- [快照-0](https://i.gkd.li/import/13837867)

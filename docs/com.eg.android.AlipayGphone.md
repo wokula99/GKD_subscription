@@ -1,6 +1,6 @@
 # 支付宝
 
-存在 9 规则组 - [com.eg.android.AlipayGphone](/src/apps/com.eg.android.AlipayGphone.ts)
+存在 10 规则组 - [com.eg.android.AlipayGphone](/src/apps/com.eg.android.AlipayGphone.ts)
 
 ## 更新提示-关闭花呗升级弹窗
 
@@ -65,3 +65,9 @@
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/14112224)
+
+## 局部广告-拼多多先买后付广告
+
+默认禁用
+
+- [快照-0](https://i.gkd.li/import/13832300)

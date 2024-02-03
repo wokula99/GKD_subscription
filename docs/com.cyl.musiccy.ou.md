@@ -11,13 +11,13 @@
 - [快照-4](https://i.gkd.li/import/13071599)
 - [快照-5](https://i.gkd.li/import/12775919)
 
-## 首页通知
+## 通知提示-首页通知
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13063206)
 
-## 弹窗广告
+## 全屏广告-弹窗广告
 
 默认禁用
 
@@ -35,3 +35,4 @@
 - [快照-11](https://i.gkd.li/import/13071595)
 - [快照-12](https://i.gkd.li/import/13063249)
 - [快照-13](https://i.gkd.li/import/13422363)
+- [快照-14](https://i.gkd.li/import/13936028)

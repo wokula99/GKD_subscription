@@ -8,6 +8,7 @@
 
 - [快照-0](https://i.gkd.li/import/12509667)
 - [快照-1](https://i.gkd.li/import/12509669)
+- [快照-2](https://i.gkd.li/import/13936617)
 
 ## 局部广告
 

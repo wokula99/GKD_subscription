@@ -147,13 +147,13 @@
 | 彩云天气               | [com.nowcasting.activity](/docs/com.nowcasting.activity.md)                                                                                                       | 3      |
 | 餐大大                 | [com.csmbcx.candada](/docs/com.csmbcx.candada.md)                                                                                                                 | 1      |
 | 超级课程表             | [com.xtuone.android.syllabus](/docs/com.xtuone.android.syllabus.md)                                                                                               | 3      |
-| 车来了                 | [com.ygkj.chelaile.standard](/docs/com.ygkj.chelaile.standard.md)                                                                                                 | 1      |
+| 车来了                 | [com.ygkj.chelaile.standard](/docs/com.ygkj.chelaile.standard.md)                                                                                                 | 2      |
 | 春木漫画               | [com.galaxy.qbyd](/docs/com.galaxy.qbyd.md)                                                                                                                       | 1      |
 | 春雨医生               | [me.chunyu.ChunyuDoctor](/docs/me.chunyu.ChunyuDoctor.md)                                                                                                         | 1      |
 | 刺猬猫阅读             | [com.kuangxiangciweimao.novel](/docs/com.kuangxiangciweimao.novel.md)                                                                                             | 1      |
 | 次元城动漫             | [com.jarworld.bleach.bvn.sjm.cyc](/docs/com.jarworld.bleach.bvn.sjm.cyc.md)                                                                                       | 1      |
 | 大茶肆                 | [cisdom.com.bigteaapp](/docs/cisdom.com.bigteaapp.md)                                                                                                             | 1      |
-| 大麦                   | [cn.damai](/docs/cn.damai.md)                                                                                                                                     | 2      |
+| 大麦                   | [cn.damai](/docs/cn.damai.md)                                                                                                                                     | 3      |
 | 倒计日                 | [com.zhizhou.days](/docs/com.zhizhou.days.md)                                                                                                                     | 2      |
 | 到梦空间               | [com.jingcai.apps.qualitydev](/docs/com.jingcai.apps.qualitydev.md)                                                                                               | 1      |
 | 大师兄影视             | [com.zhiyin.qingdan.dashixiong](/docs/com.zhiyin.qingdan.dashixiong.md)                                                                                           | 3      |
@@ -178,7 +178,7 @@
 | 动漫之家社区           | [com.dmzjsq.manhua](/docs/com.dmzjsq.manhua.md)                                                                                                                   | 1      |
 | 懂球帝                 | [com.dongqiudi.news](/docs/com.dongqiudi.news.md)                                                                                                                 | 6      |
 | 豆瓣                   | [com.douban.frodo](/docs/com.douban.frodo.md)                                                                                                                     | 9      |
-| 抖音                   | [com.ss.android.ugc.aweme](/docs/com.ss.android.ugc.aweme.md)                                                                                                     | 15     |
+| 抖音                   | [com.ss.android.ugc.aweme](/docs/com.ss.android.ugc.aweme.md)                                                                                                     | 16     |
 | 抖音                   | [com.ss.android.ugc.aweme.mobile](/docs/com.ss.android.ugc.aweme.mobile.md)                                                                                       | 1      |
 | 抖音极速版             | [com.ss.android.ugc.aweme.lite](/docs/com.ss.android.ugc.aweme.lite.md)                                                                                           | 4      |
 | 斗鱼                   | [air.tv.douyu.android](/docs/air.tv.douyu.android.md)                                                                                                             | 3      |
@@ -270,7 +270,7 @@
 | 京东金融               | [com.jd.jrapp](/docs/com.jd.jrapp.md)                                                                                                                             | 3      |
 | 京喜                   | [com.jd.pingou](/docs/com.jd.pingou.md)                                                                                                                           | 1      |
 | 京喜特价               | [com.jd.jdlite](/docs/com.jd.jdlite.md)                                                                                                                           | 2      |
-| 今日头条               | [com.ss.android.article.news](/docs/com.ss.android.article.news.md)                                                                                               | 8      |
+| 今日头条               | [com.ss.android.article.news](/docs/com.ss.android.article.news.md)                                                                                               | 9      |
 | 今日校园               | [com.wisedu.cpdaily](/docs/com.wisedu.cpdaily.md)                                                                                                                 | 1      |
 | 金山文档               | [cn.wps.yun](/docs/cn.wps.yun.md)                                                                                                                                 | 1      |
 | 金十数据               | [com.jin10](/docs/com.jin10.md)                                                                                                                                   | 4      |
@@ -472,7 +472,7 @@
 | 完美校园               | [com.newcapec.mobile.ncp](/docs/com.newcapec.mobile.ncp.md)                                                                                                       | 2      |
 | 万能遥控               | [com.duokan.phone.remotecontroller](/docs/com.duokan.phone.remotecontroller.md)                                                                                   | 2      |
 | 万年历                 | [com.youloft.calendar](/docs/com.youloft.calendar.md)                                                                                                             | 1      |
-| 微博                   | [com.sina.weibo](/docs/com.sina.weibo.md)                                                                                                                         | 16     |
+| 微博                   | [com.sina.weibo](/docs/com.sina.weibo.md)                                                                                                                         | 17     |
 | 微博极速版             | [com.sina.weibolite](/docs/com.sina.weibolite.md)                                                                                                                 | 2      |
 | 微博轻享版             | [com.weico.international](/docs/com.weico.international.md)                                                                                                       | 1      |
 | 微店                   | [com.koudai.weidian.buyer](/docs/com.koudai.weidian.buyer.md)                                                                                                     | 1      |
@@ -542,6 +542,7 @@
 | 星野                   | [com.xingye.app](/docs/com.xingye.app.md)                                                                                                                         | 1      |
 | 兴业生活               | [com.cib.xyk](/docs/com.cib.xyk.md)                                                                                                                               | 1      |
 | 星影视频               | [com.xsj.app](/docs/com.xsj.app.md)                                                                                                                               | 2      |
+| 星影视频               | [cn.nlyuming.duanju.ting](/docs/cn.nlyuming.duanju.ting.md)                                                                                                       | 1      |
 | 新小财神影视           | [com.miaoying.appmy.cs](/docs/com.miaoying.appmy.cs.md)                                                                                                           | 3      |
 | 系统服务组件           | [com.miui.securityadd](/docs/com.miui.securityadd.md)                                                                                                             | 1      |
 | 系统更新               | [com.android.updater](/docs/com.android.updater.md)                                                                                                               | 1      |
@@ -600,7 +601,7 @@
 | 正气                   | [com.zhengnengliang.precepts](/docs/com.zhengnengliang.precepts.md)                                                                                               | 2      |
 | 直播吧                 | [android.zhibo8](/docs/android.zhibo8.md)                                                                                                                         | 1      |
 | 知到                   | [com.able.wisdomtree](/docs/com.able.wisdomtree.md)                                                                                                               | 2      |
-| 支付宝                 | [com.eg.android.AlipayGphone](/docs/com.eg.android.AlipayGphone.md)                                                                                               | 9      |
+| 支付宝                 | [com.eg.android.AlipayGphone](/docs/com.eg.android.AlipayGphone.md)                                                                                               | 10     |
 | 知乎                   | [com.zhihu.android](/docs/com.zhihu.android.md)                                                                                                                   | 14     |
 | 智慧生活               | [com.huawei.smarthome](/docs/com.huawei.smarthome.md)                                                                                                             | 1      |
 | 智慧树                 | [com.hyww.wisdomtree](/docs/com.hyww.wisdomtree.md)                                                                                                               | 2      |
@@ -611,6 +612,7 @@
 | 芝士漫画               | [com.ping.cimoc](/docs/com.ping.cimoc.md)                                                                                                                         | 1      |
 | 知天气-决策            | [com.pcs.knowing_weather](/docs/com.pcs.knowing_weather.md)                                                                                                       | 1      |
 | 知网文化               | [com.cnki.view](/docs/com.cnki.view.md)                                                                                                                           | 1      |
+| 智行火车票             | [com.yipiao](/docs/com.yipiao.md)                                                                                                                                 | 3      |
 | 志愿汇                 | [com.zzw.october](/docs/com.zzw.october.md)                                                                                                                       | 1      |
 | 中国电信               | [com.ct.client](/docs/com.ct.client.md)                                                                                                                           | 6      |
 | 中国工商银行           | [com.icbc](/docs/com.icbc.md)                                                                                                                                     | 2      |
