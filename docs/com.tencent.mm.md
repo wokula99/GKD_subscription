@@ -65,9 +65,10 @@
 - [示例-0](https://github.com/gkd-kit/subscription/assets/38517192/32cfda78-b2e1-456c-8d85-bfb2bc4683aa)
 
 - [快照-0](https://i.gkd.li/import/12567696)
-- [快照-1](https://i.gkd.li/import/12567697)
-- [快照-2](https://i.gkd.li/import/12567698)
-- [快照-3](https://i.gkd.li/import/12567637)
+- [快照-1](https://i.gkd.li/import/14151190)
+- [快照-2](https://i.gkd.li/import/12567697)
+- [快照-3](https://i.gkd.li/import/12567698)
+- [快照-4](https://i.gkd.li/import/12567637)
 
 ## 分段广告-订阅号文章广告
 

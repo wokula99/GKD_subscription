@@ -79,6 +79,7 @@
 | Fa米家                 | [com.x2era.xcloud.app](/docs/com.x2era.xcloud.app.md)                                                                                                             | 1      |
 | GPS工具箱              | [com.leduoworks.gpstoolbox](/docs/com.leduoworks.gpstoolbox.md)                                                                                                   | 1      |
 | GoFun出行              | [com.gvsoft.gofun](/docs/com.gvsoft.gofun.md)                                                                                                                     | 1      |
+| Google Play 商店       | [com.android.vending](/docs/com.android.vending.md)                                                                                                               | 1      |
 | Google翻译             | [com.google.android.apps.translate](/docs/com.google.android.apps.translate.md)                                                                                   | 1      |
 | IT之家                 | [com.ruanmei.ithome](/docs/com.ruanmei.ithome.md)                                                                                                                 | 1      |
 | MT管理器               | [bin.mt.plus](/docs/bin.mt.plus.md)                                                                                                                               | 1      |
@@ -371,6 +372,7 @@
 | 蜻蜓点金               | [zhongxinjiantou.szkingdom.android.newphone](/docs/zhongxinjiantou.szkingdom.android.newphone.md)                                                                 | 1      |
 | 亲邻开门               | [com.qinlin.edoor](/docs/com.qinlin.edoor.md)                                                                                                                     | 5      |
 | 汽水音乐               | [com.luna.music](/docs/com.luna.music.md)                                                                                                                         | 3      |
+| 企业微信               | [com.tencent.wework](/docs/com.tencent.wework.md)                                                                                                                 | 1      |
 | 全民K歌                | [com.tencent.karaoke](/docs/com.tencent.karaoke.md)                                                                                                               | 2      |
 | 全民泡泡超人           | [com.tencent.tmgp.kgame.ppcr](/docs/com.tencent.tmgp.kgame.ppcr.md)                                                                                               | 1      |
 | 全能计算器             | [com.jincheng.supercaculator](/docs/com.jincheng.supercaculator.md)                                                                                               | 1      |

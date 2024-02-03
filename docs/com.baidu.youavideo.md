@@ -63,6 +63,7 @@
 
 - [快照-0](https://i.gkd.li/import/14107272)
 - [快照-1](https://i.gkd.li/import/14038825)
+- [快照-2](https://i.gkd.li/import/14151128)
 
 ## 功能类-展示精选回忆故事
 
