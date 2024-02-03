@@ -19,11 +19,17 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '全屏广告-打车页面-优惠券',
+      name: '全屏广告-优惠券',
       quickFind: true,
-      activityIds: 'com.didi.sdk.app.launch.splash.SplashActivity',
+      activityIds: [
+        'com.didi.sdk.app.launch.splash.SplashActivity',
+        'com.didi.sdk.app.MainActivity',
+      ],
       rules: '[vid="popClose"][desc="关闭弹窗"]',
-      snapshotUrls: 'https://i.gkd.li/import/14047551',
+      snapshotUrls: [
+        'https://i.gkd.li/import/14047551',
+        'https://i.gkd.li/import/13947142', //activityId: com.didi.sdk.app.MainActivity
+      ],
     },
   ],
 });
