@@ -186,5 +186,11 @@ export default defineAppConfig({
         '[id="com.alipay.mobile.nebula:id/h5_pc_container"] >n View[childCount=1] > View[childCount=2] > View + Image',
       snapshotUrls: 'https://i.gkd.li/import/14112224',
     },
+    {
+      key: 14,
+      name: '局部广告-拼多多先买后付广告',
+      rules: '[text="拼多多 推荐你"] <n FrameLayout +2 FrameLayout > [text="关闭"]',
+      snapshotUrls: 'https://i.gkd.li/import/13832300',
+    },
   ],
 });
