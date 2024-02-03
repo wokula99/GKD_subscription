@@ -200,10 +200,15 @@ export default defineAppConfig({
         {
           name: '从红包结算界面返回',
           preKeys: [1, 2],
-          activityIds:
+          activityIds: [
             'com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyBeforeDetailUI',
+            'com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI',
+          ],
           matches: 'ImageView[desc="返回"]',
-          snapshotUrls: 'https://i.gkd.li/import/12567696',
+          snapshotUrls: [
+            'https://i.gkd.li/import/12567696',
+            'https://i.gkd.li/import/14151190',
+          ],
         },
         {
           key: 1,
