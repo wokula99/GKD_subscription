@@ -117,12 +117,15 @@ export default defineAppConfig({
         {
           key: 0,
           quickFind: true,
-          activityIds:
+          activityIds: [
             'com.baidu.youavideo.preview.ui.album.AlbumPreviewActivity',
+            'com.baidu.youavideo.preview.ui.hometimeline.TimelinePreviewActivity',
+          ],
           matches: '[text="广告"] -n [vid="iv_close"]',
           snapshotUrls: [
             'https://i.gkd.li/import/14107272',
             'https://i.gkd.li/import/14038825', //[vid="iv_close"]在该页面误触
+            'https://i.gkd.li/import/14151128', //activityId: com.baidu.youavideo.preview.ui.hometimeline.TimelinePreviewActivity
           ],
         },
       ],
