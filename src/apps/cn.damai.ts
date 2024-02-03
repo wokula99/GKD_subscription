@@ -26,5 +26,13 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 2,
+      name: '权限提示-通知权限',
+      quickFind: true,
+      activityIds: 'cn.damai.homepage.MainActivity',
+      rules: '[text*="通知权限"] +2 LinearLayout > [text="不开启"]',
+      snapshotUrls: 'https://i.gkd.li/import/13985393',
+    },
   ],
 });
