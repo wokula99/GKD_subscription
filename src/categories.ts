@@ -51,6 +51,10 @@ const categories: RawCategory[] = [
     name: '功能类',
     // 非广告, 点击某些功能按钮
   },
+  {
+    key: 10,
+    name: '未分类', //分类不明确，或现有分类没有该类型
+  },
 ];
 
 export default categories;
