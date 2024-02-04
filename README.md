@@ -14,6 +14,10 @@ https://raw.gitmirror.com/Adpro-Team/GKD_subscription/main/dist/Adpro_gkd.json5
 
 查看 [适配 APP 列表](./AppList.md)
 
+查看 [第三方订阅规则汇总](https://github.com/Adpro-Team/GKD_THS_List)
+
+查看 [GKD基础使用、规则编写教程](https://github.com/Snoopy1866/blogs/blob/main/software/gkd/gkd-rule-tutorial/gkd-rule-tutorial.md)
+
 如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
