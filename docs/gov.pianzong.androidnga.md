@@ -9,6 +9,7 @@
 - [快照-2](https://i.gkd.li/import/12864707)
 - [快照-3](https://i.gkd.li/import/12911882)
 - [快照-4](https://i.gkd.li/import/13798686)
+- [快照-5](https://i.gkd.li/import/14155643)
 
 ## 首页-推荐-广告卡片
 
@@ -22,8 +23,9 @@
 
 - [快照-0](https://i.gkd.li/import/12655805)
 - [快照-1](https://i.gkd.li/import/12706140)
-- [快照-2](https://i.gkd.li/import/13303236)
-- [快照-3](https://i.gkd.li/import/14123759)
+- [快照-2](https://i.gkd.li/import/14123759)
+- [快照-3](https://i.gkd.li/import/14155652)
+- [快照-4](https://i.gkd.li/import/13303236)
 
 ## 社区-顶部广告
 
