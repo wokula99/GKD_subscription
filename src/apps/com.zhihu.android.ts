@@ -203,11 +203,13 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '推荐页-顶部广告',
+      name: '局部广告-推荐页-顶部广告',
       activityIds: 'com.zhihu.android.app.ui.activity.MainActivity',
       rules: [
         '[id="com.zhihu.android:id/tv_ad_tag"] + [id="com.zhihu.android:id/img_close_focus"]', // 1686911063850
+        '[vid="ad_container"] [vid="img_close_focus"]',
       ],
+      snapshotUrls: 'https://i.gkd.li/import/14156887', //规则2，规则1快照缺失
     },
     {
       enable: false,
@@ -250,7 +252,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 101, // 不属于广告，序号往后排
-      name: '问题回答-自动展开',
+      name: '功能类-问题回答-自动展开',
       activityIds:
         'com.zhihu.android.mixshortcontainer.MixShortContainerActivity',
       rules: [
