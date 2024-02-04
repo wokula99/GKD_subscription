@@ -34,7 +34,7 @@ https://raw.gitmirror.com/Adpro-Team/GKD_subscription/main/dist/Adpro_gkd.json5
 
 ## 开源协议
 
-开源协议内容仅对Fork了本项目的朋友生效。
+开源协议内容对Fork及使用了本项目的朋友生效。
 
 本项目遵循 SATA 开源协议
 
