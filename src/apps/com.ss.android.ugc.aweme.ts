@@ -242,5 +242,13 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 18, //类似key 15
+      name: '全屏广告-老用户福利',
+      desc: '点击【不感兴趣】',
+      activityIds: 'com.ss.android.ugc.aweme.main.MainActivity',
+      rules: '@[text="不感兴趣"][clickable=true] + [text="更多优惠商品"]',
+      snapshotUrls: 'https://i.gkd.li/import/14157498',
+    },
   ],
 });
