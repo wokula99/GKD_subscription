@@ -183,76 +183,62 @@ export default defineAppConfig({
           name: '点击广告卡片右下角菜单按钮',
           key: 0,
           matches: [
-            'RelativeLayout[desc^="广告"] > ViewGroup[childCount=3] > FrameLayout[index=2]'
+            'RelativeLayout[desc^="广告"] > ViewGroup[childCount=3] > FrameLayout[index=2]',
           ],
           actionCd: 500,
           actionMaximum: 1,
-          snapshotUrls: [
-            'https://i.gkd.li/import/14083540'
-          ]
+          snapshotUrls: ['https://i.gkd.li/import/14083540'],
         },
         {
           key: 3,
           matches: [
-            'ViewGroup[desc^="广告"] >2 ViewGroup[childCount=3] > FrameLayout[index=2]'
+            'ViewGroup[desc^="广告"] >2 ViewGroup[childCount=3] > FrameLayout[index=2]',
           ],
           actionCd: 500,
           actionMaximum: 1,
-          snapshotUrls: [
-            'https://i.gkd.li/import/14059876'
-          ]
+          snapshotUrls: ['https://i.gkd.li/import/14059876'],
         },
         {
           name: '点击[不感兴趣]',
           key: 1,
           preKeys: [0],
-          matches: [
-            '@* > [text="不感兴趣"]'
-          ],
+          matches: ['@* > [text="不感兴趣"]'],
           quickFind: true,
           snapshotUrls: [
             'https://i.gkd.li/import/13742257',
             'https://i.gkd.li/import/13256605',
             'https://i.gkd.li/import/14155801',
-            'https://i.gkd.li/import/13742257'
-          ]
+            'https://i.gkd.li/import/13742257',
+          ],
         },
         {
           name: '点击[相似内容过多]',
           key: 4,
-          preKeys: [0,3],
-          matches: [
-            '@* > [text="相似内容过多"]'
-          ],
+          preKeys: [0, 3],
+          matches: ['@* > [text="相似内容过多"]'],
           quickFind: true,
           snapshotUrls: [
             'https://i.gkd.li/import/13945597',
             'https://i.gkd.li/import/14155272',
-            'https://i.gkd.li/import/14059882'
+            'https://i.gkd.li/import/14059882',
           ],
           exampleUrls: [
-            'https://m.gkd.li/57941037/acd89b46-45fc-459f-8d17-3913d98dcbad'
-          ]
+            'https://m.gkd.li/57941037/acd89b46-45fc-459f-8d17-3913d98dcbad',
+          ],
         },
         {
           name: '点击[up主不感兴趣]',
           key: 5,
           preKeys: [0],
-          matches: [
-            '@* > [text="up主不感兴趣"]'
-          ],
+          matches: ['@* > [text="up主不感兴趣"]'],
           quickFind: true,
-          snapshotUrls: [
-            'https://i.gkd.li/import/13625309'
-          ],
+          snapshotUrls: ['https://i.gkd.li/import/13625309'],
           exampleUrls: [
-            'https://m.gkd.li/57941037/9c2f42d7-c262-4e06-b3c6-40f0908e7a94'
+            'https://m.gkd.li/57941037/9c2f42d7-c262-4e06-b3c6-40f0908e7a94',
           ],
-          activityIds: [
-            'tv.danmaku.bili.MainActivityV2'
-          ]
-        }
-      ]
+          activityIds: ['tv.danmaku.bili.MainActivityV2'],
+        },
+      ],
     },
     {
       key: 11,
