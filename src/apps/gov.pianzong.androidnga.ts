@@ -41,13 +41,19 @@ export default defineAppConfig({
         {
           key: 0,
           matches:
-            '[id="gov.pianzong.androidnga:id/rv_post_list"] > FrameLayout *[childCount<=4] > [text!="" && text!=null] +(1,2) *[childCount<=3 && childCount!=2] > @[name*="Image" || name*="TextView"][text!=""][index=0 || index>1][visibleToUser=true]',
+            '[id="gov.pianzong.androidnga:id/rv_post_list"] > FrameLayout *[childCount=1 || childCount=3] > *[childCount<=4] > [text!="" && text!=null] +(1,2) *[childCount<=3 && childCount!=2] > [name*="Image" || name*="TextView"][text!=""][index=0 || index>1][visibleToUser=true]',
           snapshotUrls: [
             'https://i.gkd.li/import/12655805',
             'https://i.gkd.li/import/12706140',
-            'https://i.gkd.li/import/13303236',
             'https://i.gkd.li/import/14123759',
+            'https://i.gkd.li/import/14155652',
           ],
+        },
+        {
+          key: 1,
+          actionCdKey: 0,
+          matches: '[id="gov.pianzong.androidnga:id/iv_information_ad_close"]',
+          snapshotUrls: 'https://i.gkd.li/import/13303236',
         },
       ],
     },
