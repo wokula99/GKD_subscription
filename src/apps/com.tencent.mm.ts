@@ -449,13 +449,11 @@ export default defineAppConfig({
       key: 16,
       name: '全屏广告-小程序-京东购物',
       desc: '低价包邮广告',
-      actionDelay: 500,
-      actionMaximum: 1,
       activityIds: 'com.tencent.mm.plugin.appbrand.ui.AppBrandUI',
       rules: {
-        matches: '@Image -n * > View[text="可横向滚动"]',
-        action: 'clickCenter',
-        snapshotUrls: ['https://i.gkd.li/import/13298294'],
+        matches: 'View[childCount=8] > View[index=6] > View[childCount=4] > Image[visibleToUser=true]',
+        exampleUrls: 'https://m.gkd.li/57941037/b4994fa7-26fb-456b-a426-16fb2ffcf7ce',
+        snapshotUrls: 'https://i.gkd.li/import/13298294',
       },
     },
     {
