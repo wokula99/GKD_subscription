@@ -451,8 +451,10 @@ export default defineAppConfig({
       desc: '低价包邮广告',
       activityIds: 'com.tencent.mm.plugin.appbrand.ui.AppBrandUI',
       rules: {
-        matches: 'View[childCount=8] > View[index=6] > View[childCount=4] > Image[visibleToUser=true]',
-        exampleUrls: 'https://m.gkd.li/57941037/b4994fa7-26fb-456b-a426-16fb2ffcf7ce',
+        matches:
+          'View[childCount=8] > View[index=6] > View[childCount=4] > Image[visibleToUser=true]',
+        exampleUrls:
+          'https://m.gkd.li/57941037/b4994fa7-26fb-456b-a426-16fb2ffcf7ce',
         snapshotUrls: 'https://i.gkd.li/import/13298294',
       },
     },
