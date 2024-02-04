@@ -15,6 +15,7 @@ export default defineAppConfig({
         '[id="gov.pianzong.androidnga:id/iv_tg_ad"]',
         '[id="gov.pianzong.androidnga:id/ksad_splash_circle_skip_view"]',
         '[id="gov.pianzong.androidnga:id/ksad_skip_view_skip"]',
+        '[vid="tv_tiaoguo"]',
       ],
       snapshotUrls: [
         'https://i.gkd.li/import/12476484',
@@ -22,6 +23,7 @@ export default defineAppConfig({
         'https://i.gkd.li/import/12864707', // activityIds: 'gov.pianzong.androidnga.activity.LoadingActivity',
         'https://i.gkd.li/import/12911882', // activityIds: 'gov.pianzong.androidnga.activity.WarmstartActivity'
         'https://i.gkd.li/import/13798686', // id="gov.pianzong.androidnga:id/ksad_skip_view_skip"
+        'https://i.gkd.li/import/14155643', //vid=tv_tiaoguo
       ],
     },
     {
