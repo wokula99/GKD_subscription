@@ -47,5 +47,20 @@ export default defineAppConfig({
       rules: '[vid="fl_main"] > [vid="iv_close"]',
       snapshotUrls: 'https://i.gkd.li/import/14039501',
     },
+    {
+      key: 4,
+      name: '全屏广告-购买动态投放弹窗',
+      desc: '点击X',
+      rules: [
+        {
+          activityIds: 'com.blued.android.core.ui.TerminalActivity',
+          quickFind: true,
+          matches: '[id="com.soft.blued:id/iv_close"]',
+          exampleUrls:
+            'https://m.gkd.li/57941037/37ea59cf-9606-4cd6-a74a-84f353f07975',
+          snapshotUrls: 'https://i.gkd.li/import/14157519',
+        },
+      ],
+    },
   ],
 });
